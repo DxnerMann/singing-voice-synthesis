@@ -53,3 +53,6 @@ Thumbs.db
 
 # Songs (Copyright)
 songs
+
+# Word timings can repeat lyrics from a local song file.
+generated/*.words.json
