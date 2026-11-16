@@ -50,3 +50,6 @@ Thumbs.db
 
 # Python logs
 *.log
+
+# Songs (Copyright)
+songs
